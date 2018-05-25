@@ -2,3 +2,7 @@ hallo
 hello
 bye
 dag
+nee
+ja
+yes
+no
